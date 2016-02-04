@@ -14,7 +14,7 @@ namespace UnificationWarsBot
         {
             IWebDriver driver = new FirefoxDriver();
 
-            driver.Navigate().GoToUrl("https://www.google.com/");
+            driver.Navigate().GoToUrl("http://uc.gamestotal.com/en/game/");
         }
     }
 }
